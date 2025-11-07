@@ -1,0 +1,46 @@
+# Carpetas de configuración y caché de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/
+
+# Archivos de compilación
+*.class
+*.jar (excepto JAR/)
+*.war
+*.ear
+
+# Archivos generados por Gradle
+.gradle/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs y editores
+*.swp
+*.swo
+*~
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Dependencias (Maven)
+.m2/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Directorios específicos a ignorar en proyectos IntelliJ
+GeneraCadenas/
+Lanzador/
+Mayusculas/
+Proceso/
