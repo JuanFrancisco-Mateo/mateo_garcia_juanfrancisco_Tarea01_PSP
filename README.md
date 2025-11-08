@@ -1,6 +1,7 @@
 # Tarea Tuneles programacion de servicios
 Tarea 01 de programacion de servicios y procesos.
 Los programas se encuentran compilados en la carpeta JAR
+*nota* : *En este repositorio solo se encuentran los archivos compilados, no el codigo fuente*
 
 El ejercicio 1 consiste en crear dos programas y conectarlos con un tunel por consola.
 ## Proyecto GeneraCadenas
