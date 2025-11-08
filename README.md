@@ -16,7 +16,7 @@ Una vez hayamos escrito todas las cadenas escribimos la palabra FIN para termina
 ## Tunel entre ambos
 Se pueden usar ambos programas con el siguiente comando:
 
- - java -jar .\GeneraCadenas.jar 10 | java -jar .\Mayusculas.jar
+	java -jar .\GeneraCadenas.jar 10 | java -jar .\Mayusculas.jar
 
 
 El ejercicio 2 consiste en crear un lanzador y un proceso que sera lanzado con el primer programa.
