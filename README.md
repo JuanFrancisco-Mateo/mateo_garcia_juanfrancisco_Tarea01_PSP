@@ -6,17 +6,17 @@ El ejercicio 1 consiste en crear dos programas y conectarlos con un tunel por co
 ## Proyecto GeneraCadenas
 Para ejecutar este programa necesitamos pasar obligatoriamente el numero de cadenas que queremos por argumentos, de lo contrario nos arroja un error.
 
-	Cuando ejecutes el programa si o si hay que usar un numero entero
+Cuando ejecutes el programa si o si hay que usar un numero entero
 	
 ## Proyecto Mayusculas
 Cuando ejecutamos el programa de manera aislada, podemos escribir cadenas de texto y estas seran almacenadas en memoria para luego ser convertidas a mayusculas.
 
-	Una vez hayamos escrito todas las cadenas escribimos la palabra FIN para terminar de ejecutar el programa y que nos de las cadenas en mayusculas.
+Una vez hayamos escrito todas las cadenas escribimos la palabra FIN para terminar de ejecutar el programa y que nos de las cadenas en mayusculas.
 
 ## Tunel entre ambos
 Se pueden usar ambos programas con el siguiente comando:
 
-	java -jar .\GeneraCadenas.jar 10 | java -jar .\Mayusculas.jar
+ - java -jar .\GeneraCadenas.jar 10 | java -jar .\Mayusculas.jar
 
 
 El ejercicio 2 consiste en crear un lanzador y un proceso que sera lanzado con el primer programa.
